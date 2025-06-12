@@ -73,7 +73,7 @@ Fakta dilapangan (test Pagespeed Insight) menunjukan bahwa script Google Adsense
 Tidak ribet seperti script lazy load Adsense lainnya yang harus setting ID publisher di script lazy load, script ini tidak begitu,
 tidak usah setting setting sehingga ramah newbie
 - Cukup copy isi file [script.js](https://github.com/hendygital/script-lazy-load-google-adsense/blob/main/script.js)
-- Masukan diatas tag </head>
+- Masukan diatas tag `</head>`
 - contoh  jadinya seperti ini:
 ```html
 <script>
